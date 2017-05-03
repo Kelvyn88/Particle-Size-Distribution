@@ -1,0 +1,17 @@
+(b) and (c)
+
+(b) We expect to see the plots increase exponentially. That is
+what we see in the above plots. That is because we are constantly testing
+are particles to fit.
+
+(c)
+What might happen is that it would not correspond to the initial gaussian
+distribution we would have liked to plot but instead a standardize plot would
+have appeared.
+
+(d)
+Formal report:
+When implementing this program, we have learned that the number of attempts it
+takes to pack the particles increases as the number of particles increases.
+According to the final graphs, we se that the number of attempts increase exponentially.
+
